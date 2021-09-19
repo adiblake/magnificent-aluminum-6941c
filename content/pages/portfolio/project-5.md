@@ -13,7 +13,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Project Title 5
+      value: Red Creative
       keyName: property
     - name: 'og:description'
       value: This is the project 5 description
@@ -25,7 +25,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Project Title 5
+      value: Red Creative
     - name: 'twitter:description'
       value: This is the project 5 description
     - name: 'twitter:image'
