@@ -61,7 +61,7 @@ sections:
           I worked with Adi in 2020 to build my personal brand identity and was
           thoroughly impressed with his work ethic and understanding for design.
       - author: Melanie Kim
-        avatar: images/aubrey_hoover.jpg
+        avatar: /images/Screenshot_1.png
         avatar_alt: Aubrey Hoover's photo
         content: >-
           We had Adi design the 2021 branding package for MECHA and he worked
