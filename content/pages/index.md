@@ -64,8 +64,8 @@ sections:
         avatar: images/aubrey_hoover.jpg
         avatar_alt: Aubrey Hoover's photo
         content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+          We had Adi design the 2021 branding package for MECHA and he worked
+          closely with us over the course of three months to do an awesome job!
       - author: Rajit V
         avatar: /images/Screenshot_12.png
         avatar_alt: Deegan Wallace's photo
