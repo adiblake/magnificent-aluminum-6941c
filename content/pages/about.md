@@ -1,5 +1,5 @@
 ---
-title: About Us
+title: About Me
 image_alt: A man taking a picture
 seo:
   title: About Us
