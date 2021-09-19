@@ -6,7 +6,7 @@ sections:
     type: section_form
     content: >
       Hi there! Thank you so much for your interest in working together. Please
-      fill the contact form below or send umean email at
+      fill the contact form below or send me an email at
       **adishankarab@gmail.com**
     form_id: contactForm
     form_action: /thank-you
