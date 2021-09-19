@@ -29,6 +29,7 @@ seo:
       value: images/about.jpg
       relativeUrl: true
 layout: page
+image: /images/KBAmy001836--000028.jpg
 ---
 I am an
 experienced, self-taught freelance Graphic and UX designer based in Auckland,
