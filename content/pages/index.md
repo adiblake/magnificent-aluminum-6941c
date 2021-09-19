@@ -34,10 +34,10 @@ sections:
           versatile branding packages for their businesses which include logos,
           marketing material and documentation. 
       - title: Advertising and promotional imagery
-        content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus.
+        content: >
+          I deploy a market-oriented approach to advertising material that
+          connects with customers and enables your brand to be visible,
+          relatable and contemporary.
       - title: Service Title
         content: >-
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
