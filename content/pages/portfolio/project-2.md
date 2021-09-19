@@ -25,7 +25,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Project Title 2
+      value: DFYWEAR
     - name: 'twitter:description'
       value: This is the project 2 description
     - name: 'twitter:image'
