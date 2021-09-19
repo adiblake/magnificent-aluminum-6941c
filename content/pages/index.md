@@ -44,9 +44,10 @@ sections:
           convallis, interdum ligula vel, pretium diam. Integer commodo sem at
           dui sollicitudin.
       - title: Product packaging and physical media
-        content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+        content: >
+          Packaging requires design with a real world focus; what good is a
+          virtual mockup if it falls apart in reality? I've worked with dozens
+          of satisfied clients to make sachets, boxes, bottles and more. 
   - section_id: testimonials
     type: section_testimonials
     title: Testimonials
