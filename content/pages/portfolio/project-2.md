@@ -2,7 +2,7 @@
 title: DFYWEAR
 subtitle: January 2017 - January 2020
 date: '2019-04-30'
-thumb_image: images/2_thumb.jpg
+thumb_image: /images/5-3240bd42.png
 thumb_image_alt: An orange on a blue background
 image_alt: An orange on a blue background
 seo:
