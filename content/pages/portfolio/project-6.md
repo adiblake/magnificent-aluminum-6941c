@@ -5,14 +5,14 @@ date: '2018-12-18'
 thumb_image_alt: A handheld game console on a yellow background
 image_alt: A handheld game console on a yellow background
 seo:
-  title: Project Title 6
+  title: Assorted Advertising
   description: This is the project 6 description
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Project Title 6
+      value: Assorted Advertising
       keyName: property
     - name: 'og:description'
       value: This is the project 6 description
@@ -24,7 +24,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Project Title 6
+      value: Assorted Advertising
     - name: 'twitter:description'
       value: This is the project 6 description
     - name: 'twitter:image'
