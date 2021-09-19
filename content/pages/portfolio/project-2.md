@@ -6,7 +6,7 @@ thumb_image: /images/5-3240bd42.png
 thumb_image_alt: An orange on a blue background
 image_alt: An orange on a blue background
 seo:
-  title: Project Title 2
+  title: DFYWEAR
   description: This is the project 2 description
   extra:
     - name: 'og:type'
