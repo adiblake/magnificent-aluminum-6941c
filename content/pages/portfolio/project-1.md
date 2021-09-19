@@ -6,7 +6,7 @@ thumb_image: /images/cover image-d678ea5f.png
 thumb_image_alt: Mecha Title Image
 image_alt: MECHA Title Image
 seo:
-  title: Project Title 1
+  title: MECHA
   description: This is the project 1 description
   extra:
     - name: 'og:type'
