@@ -6,10 +6,10 @@ sections:
     type: section_hero
     title: 'Hey, I''m Adi! Welcome to my portfolio.'
     content: >
-      I am an experienced self-taught freelance **Graphic & UX Designer**
-      studying my Honours in Mechanical Engineering. With nearly five years of
-      experience working with local and overseas clients, I'd love to have a
-      chat with you to see how I can bring your ideas to reality.
+      I am an experienced freelance **Graphic & UX Designer** studying my
+      Honours in Mechanical Engineering. With nearly five years of experience
+      working with local and overseas clients, I'd love to have a chat with you
+      to see how I can bring your ideas to reality.
     actions:
       - label: Let's talk
         url: /contact
