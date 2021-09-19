@@ -1,6 +1,6 @@
 ---
 title: Red Creative
-subtitle: Optional Project Subtitle
+subtitle: '2018'
 date: '2019-01-05'
 thumb_image: /images/e0208d59367701.5c078abd2e0a3.png
 thumb_image_alt: A white gamepad on a green background
