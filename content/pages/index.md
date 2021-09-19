@@ -60,7 +60,7 @@ sections:
         content: >-
           I worked with Adi in 2020 to build my personal brand identity and was
           thoroughly impressed with his work ethic and understanding for design.
-      - author: Aubrey Hoover
+      - author: Melanie Kim
         avatar: images/aubrey_hoover.jpg
         avatar_alt: Aubrey Hoover's photo
         content: >-
