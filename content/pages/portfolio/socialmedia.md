@@ -5,14 +5,14 @@ date: '2018-01-15'
 thumb_image_alt: A black headphones on a yeallow background
 image_alt: A black headphones on a yeallow background
 seo:
-  title: Project Title 7
+  title: Assorted Social Media Headers
   description: This is the project 7 description
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Project Title 7
+      value: Assorted Social Media Headers
       keyName: property
     - name: 'og:description'
       value: This is the project 7 description
@@ -24,7 +24,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Project Title 7
+      value: Assorted Social Media Headers
     - name: 'twitter:description'
       value: This is the project 7 description
     - name: 'twitter:image'
