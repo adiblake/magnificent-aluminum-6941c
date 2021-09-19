@@ -6,7 +6,7 @@ thumb_image: /images/e0208d59367701.5c078abd2e0a3.png
 thumb_image_alt: redcreative logo
 image_alt: A white gamepad on a green background
 seo:
-  title: Project Title 5
+  title: Red Creative
   description: This is the project 5 description
   extra:
     - name: 'og:type'
