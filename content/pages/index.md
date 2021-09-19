@@ -39,10 +39,10 @@ sections:
           connects with customers and enables your brand to be visible,
           relatable and contemporary.
       - title: Bespoke clothing - from ideas to reality
-        content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
-          dui sollicitudin.
+        content: >
+          Having run my own clothing brand, I've established a network of
+          suppliers, printers, embroiders and manufacturers that allow me to
+          design your uniforms and custom clothing and bring them into reality. 
       - title: Product packaging and physical media
         content: >
           Packaging requires design with a real world focus; what good is a
