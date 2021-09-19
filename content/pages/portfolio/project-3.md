@@ -4,7 +4,7 @@ subtitle: '2019'
 date: '2019-04-08'
 thumb_image: images/3_thumb.jpg
 thumb_image_alt: Nike Air Max Skepta Shoes
-image: images/3.jpg
+image: /images/01e95874100047.5c21eac68828c.png
 image_alt: A yellow retro telephone on a yellow background
 seo:
   title: Project Title 3
