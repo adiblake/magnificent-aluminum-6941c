@@ -54,7 +54,7 @@ sections:
     subtitle: Just a small handful of my satisfied clients
     col_number: three
     testimonials:
-      - author: Sean Salazar
+      - author: Mohnish Ram
         avatar: images/sean_salazar.jpg
         avatar_alt: Sean Salazar's photo
         content: >-
