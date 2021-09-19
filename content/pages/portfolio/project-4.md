@@ -6,7 +6,7 @@ thumb_image: /images/efa49861051433.5a61987815be5.png
 thumb_image_alt: For the Oceans
 image_alt: A table tennis racket on a pink background
 seo:
-  title: Project Title 4
+  title: For the Oceans - Parley x Adidas
   description: This is the project 4 description
   extra:
     - name: 'og:type'
