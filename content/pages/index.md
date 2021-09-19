@@ -74,7 +74,7 @@ sections:
           to establish my social media brand presence.
 seo:
   title: Adi Blake
-  description: The preview of the Exto theme
+  description: T the Exto theme
   extra:
     - name: 'og:type'
       value: website
