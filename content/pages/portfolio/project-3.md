@@ -2,7 +2,7 @@
 title: Nike Air Max 97 SK
 subtitle: '2019'
 date: '2019-04-08'
-thumb_image: images/3_thumb.jpg
+thumb_image: /images/01e95874100047.5c21eac68828c-a243845d.png
 thumb_image_alt: Nike Air Max Skepta Shoes
 image_alt: A yellow retro telephone on a yellow background
 seo:
