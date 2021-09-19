@@ -38,7 +38,7 @@ sections:
           I deploy a market-oriented approach to advertising material that
           connects with customers and enables your brand to be visible,
           relatable and contemporary.
-      - title: Service Title
+      - title: Bespoke clothing - from ideas to reality
         content: >-
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
           convallis, interdum ligula vel, pretium diam. Integer commodo sem at
