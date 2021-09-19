@@ -68,7 +68,7 @@ sections:
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
           nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
       - author: Rajit V
-        avatar: images/deegan_wallace.jpg
+        avatar: /images/Screenshot_12.png
         avatar_alt: Deegan Wallace's photo
         content: >-
           Adi was a treat to work with from start to finish as he worked with me
