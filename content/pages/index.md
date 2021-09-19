@@ -73,7 +73,7 @@ sections:
           Adi was a treat to work with from start to finish as he worked with me
           to establish my social media brand presence.
 seo:
-  title: Stackbit Exto Theme
+  title: Adi Blake
   description: The preview of the Exto theme
   extra:
     - name: 'og:type'
