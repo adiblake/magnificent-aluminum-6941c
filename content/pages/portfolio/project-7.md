@@ -3,7 +3,6 @@ title: Assorted Social Media Headers
 subtitle: 2017-2021
 date: '2018-01-15'
 thumb_image_alt: A black headphones on a yeallow background
-image: /images/miv-dual.png
 image_alt: A black headphones on a yeallow background
 seo:
   title: Project Title 7
