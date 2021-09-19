@@ -1,6 +1,6 @@
 ---
 title: Nike Air Max 97 SK
-subtitle: Optional Project Subtitle
+subtitle: '2019'
 date: '2019-04-08'
 thumb_image: images/3_thumb.jpg
 thumb_image_alt: Nike Air Max Skepta Shoes
