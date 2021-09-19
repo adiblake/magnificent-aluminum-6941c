@@ -1,5 +1,5 @@
 ---
-title: For
+title: For the Oceans - Parley x Adidas
 subtitle: Optional Project Subtitle
 date: '2019-02-26'
 thumb_image: images/4_thumb.jpg
