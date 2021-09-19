@@ -71,8 +71,8 @@ sections:
         avatar: images/deegan_wallace.jpg
         avatar_alt: Deegan Wallace's photo
         content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam.
+          Adi was a treat to work with from start to finish as he worked with me
+          to establish my social media brand presence
 seo:
   title: Stackbit Exto Theme
   description: The preview of the Exto theme
