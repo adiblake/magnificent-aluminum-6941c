@@ -31,15 +31,13 @@ seo:
       relativeUrl: true
 layout: page
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel venenatis augue. Suspendisse tincidunt, nibh eget sodales eleifend, lectus magna elementum lorem, ut bibendum tellus turpis quis risus. Vivamus sagittis enim est, et semper lectus hendrerit ut.
-
-> The world always seems brighter when you’ve just made something that wasn’t there before. - Neil Gaiman
-
 I am an
 experienced, self-taught freelance Graphic and UX designer based in Auckland,
 New Zealand. I’m studying my Honours in Mechanical Engineering at the University
 of Auckland and work closely with my clients to provide branding and design
 solutions in my spare time.   
+
+> The world always seems brighter when you’ve just made something that wasn’t there before. - Neil Gaiman
 
 It all started seven
 years ago, where at the tender age of fourteen I first decided to download GIMP
@@ -54,4 +52,4 @@ I have a very
 client-centric approach to my design philosophy, wherein the customer’s
 satisfaction is always my first priority. It is important for me to meet my
 clients face-to-face (or online) and understand the vision they have so that I
-can use my skillset to bring that vision to life. 
+can use my skillset to bring that vision to life.
