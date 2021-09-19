@@ -4,7 +4,6 @@ subtitle: November 2020 - January 2021
 date: '2019-05-10'
 thumb_image: /images/cover image-d678ea5f.png
 thumb_image_alt: Mecha Title Image
-image: /images/cover image.png
 image_alt: MECHA Title Image
 seo:
   title: Project Title 1
