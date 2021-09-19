@@ -71,7 +71,7 @@ sections:
         avatar_alt: Deegan Wallace's photo
         content: >-
           Adi was a treat to work with from start to finish as he worked with me
-          to establish my social media brand presence
+          to establish my social media brand presence.
 seo:
   title: Stackbit Exto Theme
   description: The preview of the Exto theme
