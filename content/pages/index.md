@@ -74,7 +74,7 @@ sections:
           to establish my social media brand presence.
 seo:
   title: Adi Blake
-  description: Adi Blake Portfolio
+  description: Adi Blake's Portfolio
   extra:
     - name: 'og:type'
       value: website
