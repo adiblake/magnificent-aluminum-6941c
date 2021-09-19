@@ -6,7 +6,7 @@ thumb_image: /images/01e95874100047.5c21eac68828c-a243845d.png
 thumb_image_alt: Nike Air Max Skepta Shoes
 image_alt: A yellow retro telephone on a yellow background
 seo:
-  title: Project Title 3
+  title: Nike Air Max 97 SK
   description: This is the project 3 description
   extra:
     - name: 'og:type'
