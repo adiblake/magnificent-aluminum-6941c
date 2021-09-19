@@ -33,7 +33,7 @@ sections:
           I work closely with my clients to build strong, recgonisable and
           versatile branding packages for their businesses which include logos,
           marketing material and documentation. 
-      - title: Service Title
+      - title: Advertising and promotional imagery
         content: >-
           Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
           a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
