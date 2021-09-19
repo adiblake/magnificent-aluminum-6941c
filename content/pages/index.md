@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: Hey! IAdi. Welcome to my portfolio.
+    title: Hey! I'm Adi. Welcome to my portfolio.
     content: >
       I am an experienced self-taught freelance **Graphic & UX Designer**
       studying my Honours in Mechanical Engineering. 
