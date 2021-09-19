@@ -1,5 +1,5 @@
 ---
-title: Project Title 3
+title: Nike Air Max 97 SK
 subtitle: Optional Project Subtitle
 date: '2019-04-08'
 thumb_image: images/3_thumb.jpg
