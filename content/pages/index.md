@@ -58,9 +58,8 @@ sections:
         avatar: /images/130218027_1083878632055040_8657331977922871403_n.jpg
         avatar_alt: Sean Salazar's photo
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla.
+          I worked with Adi in 2020 to build my personal brand identity and was
+          thoroughly impressed with his work ethic and understanding for design.
       - author: Aubrey Hoover
         avatar: images/aubrey_hoover.jpg
         avatar_alt: Aubrey Hoover's photo
