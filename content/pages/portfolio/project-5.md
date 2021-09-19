@@ -2,7 +2,7 @@
 title: Project Title 5
 subtitle: Optional Project Subtitle
 date: '2019-01-05'
-thumb_image: images/5_thumb.jpg
+thumb_image: /images/e0208d59367701.5c078abd2e0a3.png
 thumb_image_alt: A white gamepad on a green background
 image_alt: A white gamepad on a green background
 seo:
