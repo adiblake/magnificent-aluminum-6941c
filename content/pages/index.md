@@ -83,7 +83,7 @@ seo:
       value: Adi Blake | Design Portfolio
       keyName: property
     - name: 'og:description'
-      value: The preview of the Exto theme
+      value: 'Check out my Graphic and UX design '
       keyName: property
     - name: 'og:image'
       value: /images/png.png
