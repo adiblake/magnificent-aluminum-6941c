@@ -94,7 +94,7 @@ seo:
     - name: 'twitter:title'
       value: Adi Blake | Design Portfolio
     - name: 'twitter:description'
-      value: The preview of the Exto theme
+      value: 'Check out my Graphic and UX design '
     - name: 'twitter:image'
       value: /images/png.png
       relativeUrl: true
