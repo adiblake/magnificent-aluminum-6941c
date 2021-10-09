@@ -96,7 +96,7 @@ seo:
     - name: 'twitter:description'
       value: The preview of the Exto theme
     - name: 'twitter:image'
-      value: images/exto_preview.png
+      value: /images/png.png
       relativeUrl: true
 layout: advanced
 ---
