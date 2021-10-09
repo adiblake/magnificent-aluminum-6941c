@@ -9,8 +9,7 @@ sections:
       I am an experienced freelance **Graphic & UX Designer** based in Auckland,
       New Zealand. With nearly five years of experience working with local and
       overseas clients, I'd love to have a chat with you to see how I can bring
-      your ideas to
-      reality.![](https://preview--magnificent-aluminum-6941c.stackbit.dev/images/KBAmy001836--000028.jpg)
+      your ideas to reality.
     actions:
       - label: Let's talk
         url: /contact
