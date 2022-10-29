@@ -35,6 +35,5 @@ layout: project
 ---
 
 
-> "Design adds value faster than it adds costs." - Joel Spolsky
 
 ![](/images/4bc33474100047.5c21eac6886f3.png)![](/images/01e95874100047.5c21eac68828c-c17ab3b0.png)![](/images/8cb21f74100047.5c21eac6891c5.png)![](/images/06029574100047.5c21eac6889bf.gif)
