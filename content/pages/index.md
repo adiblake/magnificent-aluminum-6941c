@@ -30,7 +30,7 @@ sections:
     grid_items:
       - title: Crafting your brand identity
         content: >
-          I work closely with my clients to build strong, recgonisable and
+          I work closely with my clients to build strong, recognisable and
           versatile branding packages for their businesses which include logos,
           marketing material and documentation. 
       - title: Advertising and promotional imagery
