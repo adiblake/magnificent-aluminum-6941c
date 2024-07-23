@@ -6,10 +6,9 @@ sections:
     type: section_hero
     title: 'Hey, I''m Adi! Welcome to my portfolio.'
     content: >
-      I am an experienced freelance **Graphic & UX Designer** based in Auckland,
-      New Zealand. With nearly five years of experience working with local and
-      overseas clients, I'd love to have a chat with you to see how I can bring
-      your ideas to reality.
+      I am a graphic designer turned mechanical engineer, with over 5 years of
+      design experience and a flourishing passion for product design. Please
+      take a look at my work and get in touch!
     actions:
       - label: Let's talk
         url: /contact
