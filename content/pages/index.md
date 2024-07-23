@@ -21,7 +21,7 @@ sections:
     projects_number: 6
     view_all_label: View All
     view_all_url: portfolio
-  //- section_id: services
+  - section_id: services
     type: section_grid
     title: What I Do
     subtitle: A brief overview
@@ -48,7 +48,7 @@ sections:
           Packaging requires design with a real world focus; what good is a
           virtual mockup if it falls apart in reality? I've worked with dozens
           of satisfied clients to make sachets, boxes, bottles and more. 
- // - section_id: testimonials
+   - section_id: testimonials
     type: section_testimonials
     title: Testimonials
     subtitle: Just a small handful of my satisfied clients
